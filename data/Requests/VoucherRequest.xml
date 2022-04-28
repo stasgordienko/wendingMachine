@@ -1,0 +1,11 @@
+﻿<Request>
+  <DateTime>TIME</DateTime>
+  <Sign>HEX</Sign>
+  <Voucher>
+    <ServiceId>1</ServiceId>
+    <PartnerObjectId>1000</PartnerObjectId>
+    <OrderId>11</OrderId>
+    <Account>string</Account>
+    <Amount>1</Amount>
+  </Voucher>
+</Request>

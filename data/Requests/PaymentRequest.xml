@@ -1,0 +1,11 @@
+<Request>
+  <DateTime>TIME</DateTime>
+  <Sign>HEX</Sign>
+  <Payment>
+    <ServiceId>int</ServiceId>
+    <PartnerObjectId>string</PartnerObjectId>
+    <OrderId>long</OrderId>
+    <Account>string</Account>
+    <Amount>decimal</Amount>
+  </Payment>
+</Request>

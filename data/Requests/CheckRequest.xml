@@ -1,0 +1,8 @@
+<Request>
+  <DateTime>TIME</DateTime>
+  <Sign>HEX</Sign>
+  <Check>
+    <ServiceId>int</ServiceId>
+    <Account>string</Account>
+  </Check>
+</Request>

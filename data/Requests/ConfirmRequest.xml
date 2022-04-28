@@ -1,0 +1,7 @@
+<Request>
+  <DateTime>TIME</DateTime>
+  <Sign>HEX</Sign>
+  <Confirm>
+    <PaymentId>long</PaymentId>
+  </Confirm>
+</Request>

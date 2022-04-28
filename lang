@@ -1,0 +1,816 @@
+*uah
+грн
+грн
+uah
+
+*main_select
+ВЫБЕРИТЕ УСЛУГУ
+ОБЕРIТЬ ПОСЛУГУ
+CHOOSE SERVICE
+
+*main_mob
+ПРИЕМ ПЛАТЕЖЕЙ
+ПРИЙОМ ПЛАТЕЖIВ
+PAYMENTS
+
+*main_print
+ПЕЧАТЬ С USB-ФЛЕШКИ
+ДРУК З USB-ФЛЕШКИ
+USB-FLASH PRINTING
+
+*main_xerox
+КСЕРОКОПИРОВАНИЕ
+КСЕРОКОПIЮВАННЯ
+COPYING
+
+*main_scan
+СКАНИРОВАНИЕ
+СКАНУВАННЯ
+SCANNING
+
+*main_cat
+РАСПЕЧАТКА ИЗ КАТАЛОГА
+ДРУК З КАТАЛОГУ
+CATALOGUE PRINTING
+
+*main_DOP
+ДОПОЛНИТЕЛЬНАЯ КНОПКА
+ДОДАТКОВА КНОПКА
+ADDITIONAL BUTTON
+
+*help
+ПОМОЩЬ
+ДОПОМОГА
+HELP
+
+*next
+ДАЛЕЕ   
+ДАЛI   
+NEXT   
+
+*back
+ НАЗАД
+ НАЗАД
+ BACK
+
+*continue
+ПРОДОЛЖИТЬ
+ПРОДОВЖИТИ
+CONTINUE
+
+*another_file
+   ДРУГОЙ ФАЙЛ
+   ДРУГОЙ ФАЙЛ
+   ДРУГОЙ ФАЙЛ
+
+*menu
+ ГЛАВНОЕ МЕНЮ
+ ГОЛОВНЕ МЕНЮ
+ MAIN MENU
+
+*send
+ОТПРАВИТЬ
+ВIДПРАВИТИ
+SEND
+
+*cancel
+ОТМЕНИТЬ
+ВIДМIНИТИ
+CANCEL
+
+*emailsupport
+ПОДДЕРЖКА
+ПIДТРИМКА
+SUPPORT
+
+*mob_oper
+Выберите оператора
+Оберiть оператора
+Choose an operator
+
+*mob_num
+Введите номер телефона
+Введiть номер телефону
+Enter phone number
+
+*mob_charge_charge
+Внесите сумму для пополнения
+Внесiть суму для поповнення
+Pay in money for charge
+
+*mob_your_num
+Введенный номер
+Введений номер
+Inserted phone number
+
+*tax
+комиссия
+комiсiя
+comission
+
+*vneseno
+внесено
+внесено
+paid
+
+*charge
+на счет
+на рахунок
+to account
+
+*prep_sum
+ВНЕСИТЕ СУММУ
+ВНЕСIТЬ СУМУ
+PAY IN MONEY
+
+*close
+ЗАКРЫТЬ
+ЗАКРИТИ
+CLOSE
+
+*pay
+ОПЛАТИТЬ
+СПЛАТИТИ
+PAY
+
+*print_ins_pagecost
+<html>Стоимость печати составляет: <br> односторонняя печать - %5.2f грн/лист <br> двухсторонняя печать - %5.2f грн/лист</html>
+<html>Вартiсть друку: <br> одностороннiй друк - %5.2f грн/аркуш <br> двостороннiй друк - %5.2f грн/аркуш</html>
+<html>Printing cost:<br> one-sided - %5.2f uah/page <br> double-sided - %5.2f uah/page</html>
+
+*scan_ins_pagecost
+Стоимость сканирования одной страницы: %5.2f грн
+Вартiсть сканування однiєi сторiнки: %5.2f грн
+One scanned page cost: %5.2f uah
+
+*fileselect
+Выберите необходимый файл для печати и нажмите кнопку ДАЛЕЕ
+Оберіть необхідний файл для друку і натисніть кнопку ДАЛІ
+Choose necessary file for printing and press NEXT button
+
+*catalog_select
+Выберите раздел
+Оберiть роздiл
+Choose section
+
+*eject
+Извлечь USB-флешку
+Витягти USB-флешку
+Eject USB-flash
+
+*scan
+СКАНИРОВАТЬ
+СКАНУВАТИ
+SCAN
+
+*scan_another
+СКАНИРОВАТЬ ДРУГОЙ ДОКУМЕНТ
+СКАНУВАТИ IНШИЙ ДОКУМЕНТ
+SCAN ANOTHER DOCUMENT
+
+*print_another
+РАСПЕЧАТАТЬ ДРУГОЙ ДОКУМЕНТ
+РОЗДРУКУВАТИ IНШИЙ ДОКУМЕНТ
+PRINT ANOTHER DOCUMENT
+
+*xerox_another
+КОПИРОВАТЬ ДРУГОЙ ДОКУМЕНТ
+КОПIЮВАТИ IНШИЙ ДОКУМЕНТ
+COPY ANOTHER DOCUMENT
+
+*take_change
+ВЫДАТЬ СДАЧУ
+ВИДАТИ РЕШТУ
+GIVE CHANGE
+
+*scan_ins_please
+Пожалуйста, втавьте USB-флешку в гнездо USB
+Будь ласка, вставте USB-флешку у роз'єм USB
+Please, insert your USB-flash into USB-jack
+
+*scan_inserted
+USB-флешка подключена, идет проверка...
+USB-флешку пiдключено, іде перевiрка...
+USB-flash connected, verifying...
+
+*scan_gray
+Черно-белое сканирование
+Чорно-біле сканування
+Black-and-white scanning
+
+*scan_color
+Цветное сканирование
+Кольорове сканування
+Color scanning
+
+*scan_scale
+Масштабирование (A4+)
+Масштабування (A4+)
+Scaling (A4+)
+
+*scan_youcan
+Вы можете сделать %d сканирований
+Ви можете зробити %d сканувань
+You can do %d scannings
+
+*scan_youhaveno
+Недостаточно денег для сканирования
+Недостатньо коштiв для сканування 
+Not enough money for scanning
+
+*scan_nofreespace
+<br><br><br>Недостаточно свободного места <br> на USB-флешке
+<br><br><br>Недостатньо вільного місця <br> на USB-флешці
+<br><br><br>Not enough free space <br> on USB-flash
+
+*print_charge
+Внесите необходимую сумму <br> купюрами (%s грн) и монетами (%s грн)
+Внесіть необхідну суму <br> купюрами (%s грн) та монетами (%s грн)
+Put necessary sum <br> by notes (%s грн) and coins (%s грн)
+
+*mob_charge
+Внесите необходимую сумму <br> купюрами (%s грн) и монетами (%s грн)
+Внесіть необхідну суму  <br> купюрами (%s грн) та монетами (%s грн)
+Put necessary sum <br> by notes (%s грн) and coins (%s грн)
+
+*scan_charge
+Выберите опцию и внесите необходимую сумму <br> купюрами (%s грн) и монетами (%s грн)
+Оберіть опцію і внесіть необхідну суму <br> купюрами (%s грн) та монетами (%s грн)
+Choose option and put necessary sum <br> by notes (%s грн) and coins (%s грн)
+
+*xerox_charge
+Выберите опцию и внесите необходимую сумму <br> купюрами (%s грн) и монетами (%s грн)
+Оберіть опцію і внесіть необхідну суму <br> купюрами (%s грн) та монетами (%s грн)
+Choose option and put necessary sum <br> by notes (%s грн) and coins (%s грн)
+
+*xerox_vneseno
+Внесенная сумма:
+Внесена сума:
+Inserted sum:
+
+*xerox_youcan
+Вы можете сделать %s копий: %d
+Ви можете зробити %s копiй: %d
+You can make %s copies: %d
+
+*sided1
+односторонних
+одностороннiх
+one-sided
+
+*sided2
+двусторонних
+двостороннiх
+double-sided
+
+*xerox_youhaveno
+Недостаточно денег для получения %s-сторонней копии
+Недостатньо коштiв для отримання %s-сторонньоi копiї 
+Not enough money to get %s-sided copy
+
+*xerox_oneside
+Односторонняя ксерокопия
+Одностороння ксерокопiя
+One-sided copy
+
+*xerox_doubleside
+Двусторонняя ксерокопия
+Двостороння ксерокопiя
+Double-sided copy
+
+*xerox_scale
+Масштабирование (A4+)
+Масштабування (A4+)
+Scaling (A4+)
+
+*xerox_copies
+Укажите количество копий
+Вкажiть кiлькiсть копiй
+Enter number of copies
+
+*xerox_scan_label
+Разместите оригинал под крышкой <br> в левом верхнем углу лицевой стороной вниз, <br> закройте крышку и нажмите КОПИРОВАТЬ
+Розташуйте оригінал під кришкою <br> в лівому верхньому куті лицем донизу, <br> закрийте кришку і натисніть КОПІЮВАТИ
+Place original document under the cover <br> in the left top corner facedown, <br> close the cover and press COPY
+
+*scan_scan_label
+Разместите оригинал под крышкой <br> в левом верхнем углу лицевой стороной вниз, <br> закройте крышку и нажмите СКАНИРОВАТЬ
+Розташуйте оригінал під кришкою <br> в лівому верхньому куті лицем донизу, <br> закрийте кришку і натисніть СКАНУВАТИ
+Place original document under the cover <br> in the left top corner facedown, <br> close the cover and press SCAN
+
+*scan_scan
+<html>Производится сканирование документа...<br/> Не открывайте крышку!</html>
+<html>Виконується сканування документу...<br/> Не відкривайте кришку!</html>
+<html>Scanning is running...<br/> Don't open the cover!</html>
+
+*send_email
+<br>Производится отправка документа...
+<br>Виконується відправка документу...
+<br>Document sending is running...
+
+*scan_prep
+Подготовка к сканированию...
+Підготовка до сканування...
+Preparation for scanning...
+
+*scan_fail
+Произошел сбой... Повторите.
+Відбувся збій... Повторіть.
+An error occured... Retry.
+
+*write_flash
+Запись на USB-флешку
+Запис на USB-флешку
+USB-flash writing
+
+*change
+ВЫДАТЬ СДАЧУ
+ВИДАТИ РЕШТУ
+GIVE CHANGE
+
+*balance
+ВАШ БАЛАНС:
+ВАШ БАЛАНС:
+YOUR BALANCE:
+
+*price
+СТОИМОСТЬ УСЛУГ
+ВАРТIСТЬ ПОСЛУГ
+SERVICE PRICES
+
+*print_finish
+<br><br><br><h1>Печать документа завершена! <br> Возьмите распечатанные страницы. </h1>
+<br><br><br><h1>Друк документу завершено! <br> Візьміть роздруковані сторінки. </h1>
+<br><br><br><h1>Printing finished! <br> Take printed pages. </h1>
+
+*flash_dontforget
+<br> <h1>Не забудьте USB-флешку!</h1>
+<br> <h1>Не забудьте USB-флешку!</h1>
+<br> <h1>Don't forget USB-flash! </h1>
+
+*print_error
+<br><br><br><h1>Произошел сбой при печати документа... <br> Возьмите распечатанные страницы. </h1>
+<br><br><br><h1>Відбувся збій під час друку документу... <br> Візьміть роздруковані сторінки. </h1>
+<br><br><br><h1>An error occured while printing document... <br> Take printed pages. </h1>
+
+
+*scan_finish
+<br><br><br><h1>Сканирование документа завершено! <br> Изображение находится в файле: %s <br>Отсоедините USB-флешку и заберите оригинал.</h1>
+<br><br><br><h1>Сканування документу завершено! <br> Зображення знаходиться у файлі: %s <br>Від'єднайте USB-флешку і заберіть оригінал.</h1>
+<br><br><br><h1>Scanning finished! <br> Scanned image in file: %s <br>Eject USB-flash and take original document.</h1>
+
+*scan_email_finish
+<br><br><br><h1>Сканирование документа завершено! <br> Файл %s отправлен во вложении <br> на адрес %s</h1>
+<br><br><br><h1>Сканування документу завершено! <br> Файл %s відправлено вкладенням <br> на адресу %s</h1>
+<br><br><br><h1>Scanning finished! <br> File %s sent in attachment <br> on e-mail %s</h1>
+
+*xerox_finish
+<br><br><br><h1>Копирование документа завершено! <br> Копии находятся в лотке. <br> Не забудьте оригинал!</h1>
+<br><br><br><h1>Копіювання документу завершено! <br> Копії знаходяться у лотку. <br> Не забудьте оригінал!</h1>
+<br><br><br><h1>Copying finished! <br> Copies in the tray. <br> Don't forget original document!</h1>
+
+*xerox_error
+<html><br><br><br><h1>Произошел сбой <br> при копировании документа... <br><br> Распечатано %s из %s <br> Не забудьте оригинал!</h1></html>
+<html><br><br><br><h1>Відбувся збій <br> під час копіювання документу... <br><br> Роздруковано %s з %s <br> Не забудьте оригінал!</h1></html>
+<html><br><br><br><h1>An error occured <br> while copying... <br><br> Printed %s from %s <br> Don't forget original document!</h1></html>
+
+*support_select
+Если у Вас есть предложения (пожелания) или жалобы (замечания), нажмите одну из кнопок:
+Якщо у Вас є пропозиції (побажання) або скарги (зауваження), натисніть одну із кнопок:
+If you have any offers (wishes) or complaints (comments), press one of these buttons:
+
+*problem_select
+Выберите соответствующий подпункт:
+Оберіть відповідний підпункт:
+Choose appropriate item:
+
+*print_preview_wait
+<html><center><h1><b>Пожалуйста, подождите...<br/> Идет чтение файла</b></h1></center></html>
+<html><center><h1><b>Будь ласка, зачекайте...<br/> Йде зчитування файлу</b></h1></center></html>
+<html><center><h1><b>Please, wait...<br/> File is opening</b></h1></center></html>
+
+*mobile_services
+Мобильная связь
+Мобільний зв'язок
+Mobile communication
+
+*internet_services
+Интернет и телефон
+Інтернет і телефон
+Internet and phone
+
+*tv_services
+Телевидение
+Телебачення
+Television
+
+*flashdrive
+сохранить на USB-флешке
+зберігти на USB-флешці
+save on USB-flash
+
+*emailsend
+отправить по электронной почте
+відправити електронною поштою
+send by e-mail
+
+*scan_select
+Выберите необходимую опцию
+Оберіть необхідну опцію
+Choose necessary option
+
+*address
+адрес:
+адреса:
+address:
+
+##############################################################################################################
+
+*mob_nochange
+Внимание! При пополнении автомат сдачи НЕ ВЫДАЕТ!
+Увага! При поповненнi автомат решти НЕ ВИДАЕ!
+Внимание! При пополнении автомат сдачи НЕ ВЫДАЕТ!
+
+##############################################################################################################
+
+*service_unavailable
+<html><br/><br/><br/><br/>УСЛУГА ВРЕМЕННО НЕДОСТУПНА/<html>
+<html><br/><br/><br/><br/>ПОСЛУГА ТИМЧАСОВО НЕДОСТУПНА</html>
+<html><br/><br/><br/><br/>SERVICE TEMPORARILY UNAVAILABLE</html>
+
+*flash_not_writable
+<html><br/><br/><br/><br/>USB-флешка защищена от записи</html>
+<html><br/><br/><br/><br/>USB-флешка захищена від запису</html>
+<html><br/><br/><br/><br/>USB-flash writing-protected</html>
+
+*flash_not_inserted
+<html><br/><br/><br/>USB-флешка не вставлена <br/>или не поддерживается</html>
+<html><br/><br/><br/>USB-флешка не вставлена <br/>чи не підтримується</html>
+<html><br/><br/><br/>USB-flash not connected <br/>or not supported</html>
+
+*offers
+Предложения
+Пропозиції
+Offers
+
+*complaints
+Жалобы
+Скарги
+Complaints
+
+*quality_problems
+Плохое качество печати
+Погана якість друку
+Bad printing quality
+
+*change_problems
+Отсутствие сдачи
+Відсутність решти
+Change absence
+
+*tarif_problems
+Некорректная тарификация
+Некоректна тарифікація
+Incorrect tariffication
+
+*xerox_problems
+Проблемы с ксерокопированием
+Проблеми з ксерокопіюванням
+Copying problems
+
+*print_problems
+Проблемы с распечаткой
+Проблеми з роздрукуванням
+Printing problems
+
+*scan_problems
+Проблемы со сканированием
+Проблеми зі скануванням
+Scanning problems
+
+*other_problems
+Другие проблемы...
+Інші проблеми...
+Other problems...
+
+*wishes
+Пожелания
+Побажання
+Wishes
+
+*comments
+Замечания
+Зауваження
+Comments
+
+*enter_phone
+<html>Обязательно укажите номер Вашего телефона в поле "Ваш телефон" - <br/> без этого связь с Вами будет невозможна!</html>
+<html>Обов'язково вкажіть номер Вашого телефону в полі "Ваш телефон" - <br/> без цього зв'язок з Вами буде неможливим!</html>
+<html>Surely enter your phone number in the field "Your phone" - <br/> without it communication with you will be impossible!</html>
+
+*press_to_enter
+Нажмите здесь для ввода сообщения
+Натисніть тут для вводу повідомлення
+Press here to enter the message
+
+*type_message
+Наберите Ваше сообщение, используя клавиатуру, в поле "Комментарий" и нажмите кнопку "Отправить"
+Наберіть Ваше повідомлення, використовуючи клавіатуру, в полі "Коментар" і натисніть кнопку "Відправити"
+Type your message using keyboard in the field "Comment" and press "Send" button
+
+*comment
+Комментарий
+Коментар
+Comment
+
+*your_phone
+Ваш телефон
+Ваш телефон
+Your phone number
+
+*message_sent
+<html><br/><br/><br/><br/>Ваше сообщение отправлено</html>
+<html><br/><br/><br/><br/>Ваше повідомлення відправлено</html>
+<html><br/><br/><br/><br/>Your message sent</html>
+
+
+*change_end
+<html><br/><br/><br/>Внимание! <br/>В аппарате закончилась сдача.<br/>Пожалуйста, вносите оплату без сдачи</html>
+<html><br/><br/><br/>Увага! <br/>В апараті скінчилася решта.<br/>Будь ласка, вносіть сплату без решти</html>
+<html><br/><br/><br/>Attention! <br/>No change in device.<br/>Please, make payments without change</html>
+
+*change_ending
+<html><br/><br/><br/>Внимание! <br/> В аппарате заканчивается сдача.<br/>Пожалуйста, вносите оплату без сдачи</html>
+<html><br/><br/><br/>Увага! <br/> В апараті закінчується решта.<br/>Будь ласка, вносіть сплату без решти</html>
+<html><br/><br/><br/>Attention! <br/> Change comes to an end.<br/>Please, make payments without change</html>
+
+*giving_change
+<html><h1><br/><br/><br/><br/><br/>ВЫДАЧА СДАЧИ...</h1></html>
+<html><h1><br/><br/><br/><br/><br/>ВИДАЧА РЕШТИ...</h1></html>
+<html><h1><br/><br/><br/><br/><br/>GIVING CHANGE...</h1></html>
+
+*copy
+КОПИРОВАТЬ
+КОПІЮВАТИ
+COPY
+
+*error_occured
+<html>Произошел сбой. Повторите, пожалуйста...</html>
+<html>Відбувся збій. Повторіть, будь ласка...</html>
+<html>An error occured. Retry, please...</html>
+
+*printing
+<html>Идет печать... </html>
+<html>Відбувається друк...</html>
+<html>Printing...</html>
+
+*rotate180
+<html>Переверните документ на 180 градусов <br/> и нажмите ПРОДОЛЖИТЬ</html>
+<html>Переверніть документ на 180 градусів <br/> і натисніть ПРОДОВЖИТИ</html>
+<html>Turn over document on 180 degrees <br/> and press CONTINUE button</html>
+
+*scanning
+<html>Идет сканирование...</html>
+<html>Відбувається сканування...</html>
+<html>Scanning...</html>
+
+*scanning1side
+<html>Идет сканирование 1-й стороны...</html>
+<html>Відбувається сканування 1-ї сторони...</html>
+<html>1-st side scanning...</html>
+
+*scanning2side
+<html>Идет сканирование 2-й стороны...</html>
+<html>Відбувається сканування 2-ї сторони...</html>
+<html>2-nd side scanning...</html>
+
+*printing_pages
+<html>Печатается <br/> страница %d из %d </html>
+<html>Друкується <br/> сторінка %d з %d </html>
+<html>Printing <br/> page %d from %d </html>
+
+*warming
+<html>Прогрев аппарата. <br/> Подождите, пожалуйста...</html>
+<html>Прогрів апарату. <br/> Зачекайте, будь ласка...</html>
+<html>Device warming up. <br/> Please, wait...</html>
+
+###############################################################################
+
+*account_check
+<html><br/><br/><br/><br/><br/>Проверка номера...</html>
+<html><br/><br/><br/><br/><br/>Перевірка номеру...</html>
+<html><br/><br/><br/><br/><br/>Phone number check-up...</html>
+
+*payment_run
+<html><br/><br/><br/><br/><br/>Производится оплата...</html>
+<html><br/><br/><br/><br/><br/>Здійснюється сплата...</html>
+<html><br/><br/><br/><br/><br/>Payment proceeded...</html>
+
+*dont_print_check
+Не печатать чек
+Не друкувати чек
+Don't print cheque
+
+*print_check
+Печатать чек
+Друкувати чек
+Print cheque
+
+*payment_ok
+<html><br/><br/><br/><br/>Платеж произведен успешно.<br/> Номер телефона: %s </html>
+<html><br/><br/><br/><br/>Платіж здійснено успішно.<br/> Номер телефону: %s </html>
+<html><br/><br/><br/><br/>Payment proceeded successfully.<br/> Phone number: %s </html>
+
+*payment_later
+<html><br/><br/><br/><br/>Зачисление будет произведено <br/> в ближайшее время. <br/>Номер телефона: %s </html>
+<html><br/><br/><br/><br/>Зарахування буде здійснено <br/> у найближчий час. <br/>Номер телефону: %s </html>
+<html><br/><br/><br/><br/>Payment will be charged <br/> in the nearest time. <br/>Phone number: %s </html>
+
+*take_check
+<html><br/><br/><br/>Возьмите, пожалуйста, чек. <br/> Благодарим Вас! </html>
+<html><br/><br/><br/>Візьміть, будь ласка, чек. <br/> Дякуємо Вам! </html>
+<html><br/><br/><br/>Take the cheque, please. <br/> Thank you! </html>
+
+*verify_number
+Обязательно проверьте правильность ввода номера!
+Обов'язково перевірте правильність вводу номеру!
+Surely check correctness of entered phone number!
+
+*payment_tax
+<html>Комиссия: <br/> %3.1f%% (минимум %4.2f грн)<br/><br/><br/>Минимальная сумма:<br/> %4.2f грн<br/><br/>Максимальная сумма:<br/> %6.2f грн </html>
+<html>Комісія: <br/> %3.1f%% (мінімум %4.2f грн)<br/><br/><br/>Мінімальна сума:<br/> %4.2f грн<br/><br/>Максимальна сума:<br/> %6.2f грн </html>
+<html>Comission: <br/> %3.1f%% (minimum %4.2f uah)<br/><br/><br/>Minimum sum:<br/> %4.2f uah<br/><br/>Maximum sum:<br/> %6.2f uah </html>
+
+*invalid_number
+<html><br/><br/>Номер введен неверно <br/> или не существует: <br/><br/> %s </html>
+<html><br/><br/>Номер введено невірно <br/> або не існує: <br/><br/> %s </html>
+<html><br/><br/>Phone number entered incorrectly <br/> or doesn't exist: <br/><br/> %s </html>
+
+*print_doc_cost
+Стоимость печати документа:
+Вартість друку документу:
+Document's printing cost:
+
+*print
+ПЕЧАТАТЬ
+ДРУКУВАТИ
+PRINT
+
+*print_cost_detail
+Количество страниц: %d. Стоимость печати одной страницы составляет %5.2f грн
+Кількість сторінок: %d. Вартість друку однієї сторінки складає %5.2f грн
+Number of pages: %d. One page printing cost is %5.2f uah
+
+*email_to_support
+Сообщить о проблеме в службу поддержки
+Повідомити про проблему у службу підтримки
+Inform support service about problem
+
+*print_all_pages
+Печатать все страницы
+Друкувати усі сторінки
+Print all pages
+
+*page_from
+<html>Страница %03d <br/> из %03d </html>
+<html>Сторінка %03d <br/> з %03d </html>
+<html>Page %03d <br/> from %03d </html>
+
+*page_selected
+Страница выбрана
+Сторінку обрано
+Page chosen
+
+*page_press
+<html>Чтобы выбрать страницу,<br/>нажмите на нее</html>
+<html>Щоб обрати сторінку,<br/>натисніть на неї</html>
+<html>To choose the page<br/>press it</html>
+
+*print_range
+Печатать диапазон страниц
+Друкувати діапазон сторінок
+Print range of pages
+
+*print_selected
+Печатать страницы выборочно
+Друкувати сторінки вибірково
+Print pages selectively
+
+*print_cost
+<html>Стоимость печати:<br/><br/> грн</html>
+<html>Вартість друку:<br/><br/> грн</html>
+<html>Printing cost:<br/><br/> uah</html>
+
+*start_page
+Начальная страница:
+Початкова сторінка:
+Starting page:
+
+*end_page
+Конечная страница:
+Кінцева сторінка:
+Final page:
+
+*duplex_print
+Двусторонняя печать
+Двосторонній друк
+Double-sided printing
+
+*quantity
+Количество экземпляров:
+Кількість екземплярів:
+Number of copies:
+
+*img_scale
+Масштаб (%): 
+Масштаб (%): 
+Scale (%): 
+
+*img_rotate
+Поворот (градусов): 
+Поворот (градусів): 
+Rotating (degrees): 
+
+*img_align
+Расположение
+Розташування
+Position
+
+*print_prepare
+Подготовка...
+Підготовка...
+Preparation...
+
+*scan_sent
+<html><br/>Отправлено для %s. <br/> Отсканированное изображение находится во вложении <br/>(%s)</html>
+<html><br/>Відправлено для %s. <br/> Відскановане зображення знаходиться у вкладенні <br/>(%s)</html>
+<html><br/>Sent for %s. <br/> Scanned image is in attachment <br/>(%s)</html>
+
+
+######################################################################################################
+######################################################################################################
+
+*check_save
+Сохраняйте чек до момента поступления средств на счет!
+Зберігайте чек до моменту надходження коштів на рахунок!
+Save cheque until receipt of funds to the account!
+
+*check_term
+Терминал:
+Термінал:
+Terminal:
+
+*check_n
+Номер чека:
+Номер чеку:
+Cheque number:
+
+*check_date
+Дата:
+Дата:
+Date:
+
+*check_time
+Время:
+Час:
+Time:
+
+*check_oper
+Оператор:
+Оператор:
+Provider
+
+*check_type
+Тип платежа:
+Тип платежу:
+Payment type:
+
+*check_mob
+Оплата по номеру телефона
+Сплата за номером телефону
+Payment by phone number
+
+*check_account
+№ тел.:
+№ тел.:
+Phone number:
+
+*check_paid
+Внесено:
+Внесено:
+Paid:
+
+*check_tax
+Комиссия:
+Комісія:
+Comission:
+
+*check_amount
+Зачислено:
+Зараховано:
+To account:
+
+*check_thank
+Благодарим за пользованием терминалом!
+Дякуємо за користування терміналом!
+Thank you for having used the terminal!

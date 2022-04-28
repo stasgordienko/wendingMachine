@@ -1,0 +1,271 @@
+@printer		*img/print/print.jpg	*РАСПЕЧАТКА		*admin/service
+@xerox		*img/xerox/xerox.jpg	*КСЕРОКС		*admin/service
+@price		*img/scan/scan.jpg	*ЦЕНЫ		*admin
+@cash		*img/scan/scan.jpg	*$ ДЕНЬГИ $		*admin/cash
+@ob		*img/mob/bl.png	*ОБЩИЕ		*admin/service
+@pwd		*img/scan/scan.jpg	*ПАРОЛИ		*admin
+@mob		*img/mob/mob.jpg	*ПОПОЛНЕНИЯ		*admin/service
+@counters		*img/scan/scan.jpg	*СЧЕТЧИКИ		*admin/service
+
+
+#Номер устройства *ob*intNE
+device=1
+
+#Язык интерфейса старт *ob*select*ru|ua|en
+lang_start=ua
+
+#Максимальный номинал операции ПОПОЛНЕНИЕ *mob*float*100*20000*100
+mob_maxNominal=20000
+
+#Минимальная сумма операции МОБИЛЬНЫЙ *mob*float*0*10000*10
+mob_summin=100
+
+#Максимальная сумма операции МОБИЛЬНЫЙ *mob*float*1000*100000*100
+mob_summax=100000
+
+#Мобильный комиссия *mob*float*0*1000*10
+mob_tax=10
+
+#Время простоя до возврата (секунды) *mob*int*0*300*10
+timeout=50
+
+#Номер торговой точки *mob*text*20
+partnerObjectId=3039
+
+#Время простоя HELP (секунды) *ob*int*0*60*1
+helpTimeout=55
+
+#номер телефона СМС1 *ob*text*10
+phone1=1234567890
+
+#периодичность рассылки состояния, мин СМС1 *ob*int*0*720*1
+sms1_period=15
+
+#номер телефона СМС2 *ob*text*10
+phone2=0987654321
+
+#периодичность рассылки состояния, мин СМС2 *ob*int*0*720*1
+sms2_period=0
+
+#ping period  *ob*int*0*60*1
+ping_period=3
+
+#ping address *ob*text*20
+ping_address=8.8.8.8
+
+#Адрес поддержки *ob*text*25
+support_email=support@copyprime.tech
+
+#Разрешен XEROX *xerox*select*no|yes
+xerox_enabled=yes
+
+#Разрешен PRINTER *printer*select*no|yes
+printer_enabled=yes
+
+#Разрешен CATALOG *printer*select*no|yes
+catalog_enabled=yes
+
+#Разрешен SCANNER *printer*select*no|yes
+scan_enabled=yes
+
+#Разрешен PAYMENT *mob*select*no|yes
+payment_enabled=yes
+
+#Разрешен Additional *mob*select*no|yes
+DOP_enabled=yes
+
+#admin *pwd*text*10
+pwda=0000
+
+#service *pwd*text*10
+pwds=1111
+
+#cash *pwd*text*10
+pwdc=2222
+
+#Сервер БД *pwd*text*15
+mysqlserver=local
+
+#Имя пользователя БД *pwd*text*15
+mysqlname=user
+
+#Пароль БД *pwd*text*10
+mysqlpwd=1111
+
+#log filename *pwd*text*20
+logfilename=/home/stang/project/log
+
+#Путь к флэшке *printer*text*20
+flash=/media/flash
+
+#flash dev *printer*text*20
+flash_dev=/dev/sdb1
+
+#Временный файл PDF *printer*text*30
+temppdf=/home/stang/temp.pdf
+
+#Путь к каталогу *printer*text*20
+catalog=/catalog
+
+#всего листов бумаги *counters*intNE
+n_paper=229
+
+#всего сделано распечаток *counters*intNE
+n_drum=323
+
+#односторонних ксерокопий *counters*intNE
+n_xerox_oside=135
+
+#двусторонних ксерокопий *counters*intNE
+n_xerox_dside=94
+
+#односторонних распечаток *counters*intNE
+n_print_oside=0
+
+#двусторонних распечаток *counters*intNE
+n_print_dside=0
+
+#сканирований *counters*intNE
+n_scan=602
+
+#платежей *counters*intNE
+n_payment=189
+
+#запусков *counters*intNE
+n_start=2272
+
+#всего принято денег *counters*floatNE
+n_all_money=35900
+
+#количество бумаги в лотках *xerox*int*0*1000*10/*reset*1000
+paper=910
+
+#количество листов в верхнем лотке *xerox*int*0*500*10/*reset*500
+paper_up=0
+
+#количество листов в нижнем лотке *xerox*int*0*500*10/*reset*500
+paper_down=0
+
+#остаток тонера *xerox*int*0*1000*100/*reset*1000
+toner=1000
+
+#остаток барабана *xerox*int*0*10000*100/*reset*10000
+drum=10000
+
+#Стоимость распечатки *price*float*5*1000*5
+print_pagecost=40
+
+#Стоимость распечатки 2x стор *price*float*5*1000*5
+print_pagecost2=80
+
+#Стоимость сканирования Ч-Б*price*float*5*1000*5
+scan_1cost=30
+
+#Стоимость сканирования ЦВЕТ*price*float*5*1000*5
+scan_2cost=35
+
+#Стоимость односторонней ксерокопии *price*float*5*1000*5
+xerox_1cost=40
+
+#Стоимость двусторонней ксерокопии *price*float*5*1000*5
+xerox_2cost=80
+
+#Яркость копирования  *xerox*int*1*5*1
+xerox_brightness=4
+
+#Максимальное количество односторонних *xerox*int*1*100*1
+xerox_1max=10
+
+#Максимальное количество двусторонних  *xerox*int*1*100*1
+xerox_2max=10
+
+#2х стороннее копирование ТИП*xerox*select*short|long
+xerox_2side=long
+
+#Масштабирование *xerox*int*50*100*1
+xerox_scaling=85
+
+#Минимальная сумма операции КСЕРОКС *price*float*0*1000*50
+xerox_summin=50
+
+#Максимальная сумма операции КСЕРОКС *price*float*100*5000*50
+xerox_summax=500
+
+#Максимальный номинал операции КСЕРОКС *price*float*100*5000*100
+xerox_maxNominal=500
+
+#Максимальный номинал операции ПЕЧАТЬ *price*float*100*5000*100
+print_maxNominal=1000
+
+#Максимальный номинал операции СКАНЕР *price*float*100*5000*100
+scan_maxNominal=500
+
+#Максимальная сумма операции СКАНЕР *price*float*100*5000*50
+scan_summax=500
+
+#адаптер ксерокса *ob*text*20
+copier_name=CP2102
+
+#адаптер купюромонетника *ob*text*20
+cash_name=Silicon_Labs
+
+#модем *ob*text*20
+modem_name=HUAWEI
+
+#Имя принтера в системе *ob*text*20
+systemPrinterName=xerox4118
+
+#БАЛАНС МОДЕМА *counters*text*20
+mobile_balance= 8,75
+
+#порт подключения ксерокса *ob*file*1
+copier_port=/dev/serial/by-id/usb-Silicon_Labs_CP2102_USB_to_UART_Bridge_Controller_0001-if00-port0
+
+#порт подключения купюромонетника *ob*file*1
+cash_port=/dev/serial/by-id/usb-Prolific_Technology_Inc._USB-Serial_Controller-if00-port0
+
+#порт подключения модема *ob*file*1
+modem_port=/dev/serial/by-id/usb-HUAWEI_Technologies_HUAWEI_Mobile-if02-port0
+
+#Количество купюр *cash*intNE/*reset*0
+billStacker=16
+
+#количество 1грн  *cash*intNE/*0
+billN1=12
+
+#количество 2грн  *cash*intNE/*0
+billN2=4
+
+#количество 5грн  *cash*intNE/*0
+billN5=0
+
+#количество 10грн *cash*intNE/*0
+billN10=0
+
+#количество 20грн *cash*intNE/*0
+billN20=0
+
+#количество 50грн *cash*intNE/*0
+billN50=0
+
+#количество 100грн *cash*intNE/*0
+billN100=0
+
+#Текущая сумма в купюрнике *cash*floatNE/*0
+billSumm=2000
+
+#Текущая сумма СДАЧИ *cash*floatNE/*reset*0
+coinSumm=9520
+
+#Количество монет 50к в тубах *cash*int*0*200*1/*0
+coinC50=161
+
+#Количество монет 25к в тубах *cash*int*0*200*1/*0
+coinC25=52
+
+#Количество монет 5к в тубах *cash*int*0*200*1/*0
+coinC5=34
+
+#Текущая сумма в CASHBOX *cash*floatNE/*reset*0
+cashBoxSumm=10
+

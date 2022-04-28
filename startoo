@@ -1,0 +1,13 @@
+#!/bin/bash
+
+set env DISPLAY :0
+export DISPLAY=:0
+xhost +
+xset -dpms
+xset s off
+#sleep 5
+#umount /media/flash
+###/usr/sbin/usb_modeswitch  # switch HUAWEI E220 modem from storage to ttyUSB mode
+echo "1" > /etc/acpower
+cd /home/stang/project/
+python /home/stang/project/main.py

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo $1 $2 $3 $4 $5
+scanimage --format=tiff --resolution=$1 --mode=$2 > ./tempscan.tiff
+convert ./tempscan.tiff -crop "$6" -resize "$5" -quality $4 $3
+rm ./tempscan.tiff

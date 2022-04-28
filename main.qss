@@ -1,0 +1,373 @@
+QWidget,QDialog {
+    color: #333333;
+    background-color: white;
+}
+
+QWidget#top {
+	background-image: url("img/top.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+}
+
+mainLabel#xerox {
+	background-image: url("img/xerox/button_xerox.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+	color: #333333;
+}
+
+mainLabel#printer {
+	background-image: url("img/print/button_print.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+	color: #333333;
+}
+
+mainLabel#catalog {
+	background-image: url("img/catalog/button_catalog.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+	color: #333333;
+}
+
+mainLabel#mob {
+	background-image: url("img/mob/button_mob.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+	color: #333333;
+}
+
+mainLabel#scan {
+	background-image: url("img/scan/button_scan.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+	color: #333333;
+}
+
+
+#b_en,#b_ua,#b_ru {
+background: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 white, stop:0.5 rgba(113,170,222,200), stop:1 rgba(113,170,222,250)); 
+border: 3px solid rgba(113,170,222,200); 
+border-radius: 10px; color: white;
+}
+
+#b_en:checked,#b_ua:checked,#b_ru:checked,#b_en:pressed,#b_ua:pressed,#b_ru:pressed {
+background: qlineargradient(x1:1, y1:1, x2:1, y2:0, stop:0 white, stop:0.5 rgba(113,170,222,200), stop:1 rgba(113,170,222,250)); 
+border: 3px solid rgba(113,170,222,200); 
+border-radius: 10px; color: white;
+}
+
+#b_email,#b_help_main {
+background: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 white, stop:0.5 rgba(255,170,60,200), stop:1 rgba(255,170,60,250)); 
+border: 3px solid rgba(255,170,60,200); 
+border-radius: 10px; color: white;
+}
+
+#b_email:pressed, #b_help_main:pressed {
+background: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 rgba(255,170,60,250), stop:0.5 rgba(255,170,60,200), stop:1 white); 
+border: 3px solid rgba(255,170,60,200); 
+border-radius: 10px; color: white;
+}
+
+
+#b_price:pressed, #b_bal:pressed {
+background: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 rgba(33,152,17,250), stop:0.5 rgba(33,152,17,200), stop:1 white); 
+border: 3px solid rgba(33,152,17,200); 
+border-radius: 10px; color: white;
+}
+
+#b_price, #b_bal {
+background: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 white, stop:0.5 rgba(33,152,17,200), stop:1 rgba(33,152,17,250)); 
+border: 3px solid rgba(33,152,17,200); 
+border-radius: 10px; color: white;
+}
+
+#bal, #l_bal, #l_uah {
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+	color: #FFFFFF;
+}
+
+#label {
+    color: #404040;
+}
+
+
+#b0,#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9,#b_inc,#b_dec {
+	background-image: url("img/mob/b_num.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+#b0:pressed,#b1:pressed,#b2:pressed,#b3:pressed,#b4:pressed,#b5:pressed,#b6:pressed,#b7:pressed,#b8:pressed,#b9:pressed, #b_inc:pressed, #b_dec:pressed {
+	background-image: url("img/mob/b_num_pressed.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+#b0:disabled,#b1:disabled,#b2:disabled,#b3:disabled,#b4:disabled,#b5:disabled,#b6:disabled,#b7:disabled,#b8:disabled,#b9:disabled,#b_inc:disabled, #b_dec:disabled {
+	background-image: url("img/b_lang.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+
+_mob_num #b_erase, #b_erase2 {
+	background-image: url("img/mob/b_erase.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+_mob_num #b_erase:pressed, #b_erase2:pressed {
+	background-image: url("img/mob/b_erase_pressed.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+#b_main {
+	background-image: url("img/b_mainmenu.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+#b_main:pressed {
+	background-image: url("img/b_mainmenu_pressed.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+#b_help {
+	background-image: url("img/b_help.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+#b_help:pressed {
+	background-image: url("img/b_help_pressed.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+
+#b_eject {
+	background-image: url("img/b_eject.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+#b_eject:pressed {
+	background-image: url("img/b_eject_pressed.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+#b_pay, #b_next, #b_scan {
+	background-image: url("img/mob/forward.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+#b_pay:pressed, #b_next:pressed, #b_scan:pressed {
+	background-image: url("img/mob/forward_pressed.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+#b_pay:disabled, #b_next:disabled, #b_scan:disabled {
+	background-image: url("img/mob/forward_disabled.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+_mob_num #b_back {
+	background-image: url("img/mob/back.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+_mob_num #b_back:pressed {
+	background-image: url("img/mob/back_pressed.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+}
+
+_print_preview #preview {
+    border-style: outset;
+    border-width: 2px;
+    border-color: #111111;
+}
+
+_print_preview_img #preview {
+    border-style: outset;
+    border-width: 2px;
+    border-color: black;
+}
+
+
+#numpad {
+    background-color: #EFEFEF;
+    border: 3px solid #cecece;
+    border-radius: 20px;
+}
+
+
+_mob_charge #pad {
+    background-color: #EFEFEF;
+    border: 3px solid #cecece;
+    border-radius: 20px;
+}
+
+_mob_charge #pad1 {
+    background-color: #DDEFEF;
+    border: 1px solid #cecece;
+    border-radius: 20px;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+
+QLabel#number, #copies {
+    background-color: #505050;
+    border: 10px solid #ababab;
+    border-radius: 20px;
+    color: #2cd800;
+}
+
+QRadioButton::indicator::unchecked {
+    width: 50px;
+    height: 50px;
+}
+
+QRadioButton::indicator::checked {
+    width: 50px;
+    height: 50px;
+}
+
+QRadioButton::indicator::unchecked:pressed {
+    width: 50px;
+    height: 60px;
+}
+
+
+#oneside::indicator::unchecked, #doubleside::indicator::unchecked, #flash_choose::indicator::unchecked, #email_choose::indicator::unchecked {
+	background-image: url("img/radio.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+        width: 90px;
+        height: 90px;
+}
+
+#oneside::indicator::checked, #doubleside::indicator::checked, #flash_choose::indicator::checked, #email_choose::indicator::checked {
+	background-image: url("img/radio_checked.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+        width: 90px;
+        height: 90px;
+}
+
+#oneside::indicator::unchecked:pressed, #doubleside::indicator::unchecked:pressed, #flash_choose::indicator::unchecked:pressed, #email_choose::indicator::unchecked:pressed {
+	background-image: url("img/radio_pressed.png");
+	background-color: transparent;
+	border-width: 0px;
+	border: none;
+        color: white;
+        width: 90px;
+        height: 90px;
+}
+
+
+#b_scale::indicator:checked {
+	background-image: url("img/green_galochka.jpg");
+	background-color: transparent;
+	border: 1px solid black;
+        color: black;
+        width: 90px;
+        height: 90px;
+}
+
+#b_scale::indicator:unchecked {
+	background-color: transparent;
+	border: 1px solid black;
+        color: black;
+        width: 90px;
+        height: 90px;
+}
+
+#duplex_print::indicator:checked {
+	background-image: url("img/green_galochka50.jpg");
+	background-color: transparent;
+	border: 1px solid black;
+        color: black;
+        width: 50px;
+        height: 48px;
+}
+
+#duplex_print::indicator:unchecked {
+	background-color: transparent;
+	border: 1px solid black;
+        color: black;
+        width: 50px;
+        height: 48px;
+}
+
+
+QCheckBox::indicator {
+    width: 50px;
+    height: 50px;
+}
+
+QCheckBox::indicator:checked:pressed {
+    width: 50px;
+    height: 50px;
+}
+
+
+#filelist {
+    background-color: transparent;
+    border: none;
+}
+
+
